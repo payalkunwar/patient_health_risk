@@ -1,0 +1,9 @@
+model,n_clusters,wcss,silhouette,selected
+K-Means,2,3425.3224,0.4978,False
+K-Means,3,1706.9994,0.4987,True
+K-Means,4,1524.6628,0.4286,False
+K-Means,5,1424.0804,0.3127,False
+K-Means,6,1344.2179,0.1808,False
+K-Means,7,1291.3544,0.1597,False
+K-Means,8,1252.2905,0.1561,False
+Hierarchical (Ward),3,,0.4985,True

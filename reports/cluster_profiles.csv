@@ -1,0 +1,4 @@
+cluster,age,bmi,systolic_bp,diastolic_bp,cholesterol,physical_activity,previous_claims,size
+0,29.97,21.34,109.9,69.75,162.76,8.55,0.8,420
+1,67.67,34.2,156.55,98.16,275.08,1.16,6.15,359
+2,49.23,27.66,131.95,83.69,218.29,4.25,2.54,421
